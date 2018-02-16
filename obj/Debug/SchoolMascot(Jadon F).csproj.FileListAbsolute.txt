@@ -1,0 +1,9 @@
+C:\Users\s220500\Desktop\Jadon Fournier\Introduction\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\bin\Debug\SchoolMascot(Jadon F).exe.config
+C:\Users\s220500\Desktop\Jadon Fournier\Introduction\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\bin\Debug\SchoolMascot(Jadon F).exe
+C:\Users\s220500\Desktop\Jadon Fournier\Introduction\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\bin\Debug\SchoolMascot(Jadon F).pdb
+C:\Users\s220500\Desktop\Jadon Fournier\Introduction\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\obj\Debug\SchoolMascot(Jadon F).csprojResolveAssemblyReference.cache
+C:\Users\s220500\Desktop\Jadon Fournier\Introduction\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\obj\Debug\SchoolMascot_Jadon_F_.Properties.Resources.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Introduction\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\obj\Debug\SchoolMascot_Jadon_F_.frmSchoolMascot.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Introduction\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\obj\Debug\SchoolMascot(Jadon F).csproj.GenerateResource.Cache
+C:\Users\s220500\Desktop\Jadon Fournier\Introduction\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\obj\Debug\SchoolMascot(Jadon F).exe
+C:\Users\s220500\Desktop\Jadon Fournier\Introduction\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\SchoolMascot(Jadon F)\obj\Debug\SchoolMascot(Jadon F).pdb
